@@ -1,0 +1,25 @@
+.serach{
+    border: 1px solid black !important;
+    height: 34px;
+    width: 16rem;
+    padding: 0rem 1.5rem 0rem 0.4rem;
+}
+.serach::placeholder{
+    padding: 1rem;
+}
+
+.serach:focus{
+   outline: none !important;
+}
+nav{
+    padding: 10px;
+}
+
+@media screen and (width:1024px) {
+    .serach-icon{
+        background: transparent !important;
+        top: -17px !important;
+        right: -23px !important;
+        color: black !important;
+    }
+}
