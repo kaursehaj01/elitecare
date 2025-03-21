@@ -3,32 +3,32 @@
 }
 
 .category-box-one{
-    background-image: url("../assets/imageBanner/automotion.jpg");
+    background-image: url("../../../public/assets/imageBanner/automotion.jpg");
     
     /* height: 10rem; */
 }
 
 
 .category-box-two{
-    background-image: url("../assets/imageBanner/business.jpg");
+    background-image: url("../../../public/assets/imageBanner/business.jpg");
     
     /* height: 10rem; */
 }
 
 .category-box-three{
-    background-image: url("../assets/imageBanner/childcare.jpg");
+    background-image: url("../../../public/assets/imageBanner/childcare.jpg");
     
     /* height: 10rem; */
 }
 
 .category-box-four{
-    background-image: url("../assets/imageBanner/realestate.jpg");
+    background-image: url("../../../public/assets/imageBanner/realestate.jpg");
     
     /* height: 10rem; */
 }
 
 .category-box-five{
-    background-image: url("../assets/imageBanner/transport.jpg");
+    background-image: url("../../../public/assets/imageBanner/transport.jpg");
     
     /* height: 10rem; */
 }
@@ -36,7 +36,7 @@
 
 
 .category-box-six{
-    background-image: url("../assets/imageBanner/legalfinace.jpg");
+    background-image: url("../../../public/assets/imageBanner/legalfinace.jpg");
     
    
     /* height: 10rem; */
